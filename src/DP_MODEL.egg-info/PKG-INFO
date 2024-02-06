@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DP_MODEL
+Version: 0.0.1
+Author: Sachin Kumar
+Author-email: sachinkr1416@gmail.com
+Requires-Dist: flask
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn

@@ -1,0 +1,13 @@
+prefix=/Users/aarushsingh/Downloads/DP_MODEL/venv
+exec_prefix=/Users/aarushsingh/Downloads/DP_MODEL/venv
+libdir=/Users/aarushsingh/Downloads/DP_MODEL/venv/lib
+sharedlibdir=/Users/aarushsingh/Downloads/DP_MODEL/venv/lib
+includedir=/Users/aarushsingh/Downloads/DP_MODEL/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
